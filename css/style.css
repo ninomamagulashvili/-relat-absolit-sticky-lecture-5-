@@ -1,0 +1,33 @@
+header{
+    paddding-left: 10px;
+    background-color: lightgreen;
+    width: 100%;
+}
+
+
+.logo{
+    font-size: 40px;
+    display: inline-block;
+    margin-right:50px;
+    vertical-align: middle;
+}
+.nav{
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+
+.li{
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 18px;
+
+}
+.li a {
+    color: black;
+}
+h2{ 
+    margin-top: 50px;
+    font-size: 22px;
+}
